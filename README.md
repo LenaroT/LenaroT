@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="25340727" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/simpson-gif-25340727">Simpson GIF</a>from <a href="https://tenor.com/search/simpson-gifs">Simpson GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/simpson-gif-25340727">
 <img src= "https://github.com/LenaroT/LenaroT/blob/3c5653d4b88a24adadd04caca360e1d4b2709e67/assets/Capa.png"/>
 
 ## Estou Aprendendo
